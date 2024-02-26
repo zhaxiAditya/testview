@@ -151,7 +151,32 @@ section h1 {
     height: 100px;
     border-radius: 50%;
 }
+/*footer*/
+footer h3 {
+    color: #50C4ED;
+    font-size: 2em;
+}
+footer h3 span {
+    color: #32758d;
 
+}
+footer p {
+    width: 400px;
+}
+footer {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+footer aside {
+    padding: 1rem;
+}
+footer aside i {
+    padding: 10px;
+}
 
 /*background color section*/
 #service {
